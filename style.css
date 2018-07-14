@@ -79,13 +79,10 @@ p{
 
 .main-container{
     
-    margin: 0 0;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin: 0 auto;
     margin-top: 5%;
-    margin-bottom: 0px;
     padding-bottom: 80px;
-    width: auto;
+    width: 90%;
 
 }
 
