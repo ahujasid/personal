@@ -28,7 +28,7 @@
 
 .subheader{
     font-family: 'Unna',serif;
-    margin-top: 8px;
+    margin-top: 16px;
     font-size: 40px;
     color: #81878C;
     line-height: 1.38;
@@ -38,13 +38,12 @@
 
 .content{
     font-family: 'Crimson Text', serif;
-    margin-top: 16px;
+    margin-top: 24px;
     font-size: 24px;
     color: #535B62;
     line-height: 1.57;
     font-weight: 400;
     max-width: 632px;
-    margin-top: 16px;
     
 }
 
