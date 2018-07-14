@@ -145,15 +145,15 @@ p{
 }
 
 .image-mobile img{
-    width: 240px;
+    width: 320px;
     height: auto;
 
 
 }
 
 .image-bg-mobile{
-    width: 240px;
-    height: 338px;
+    width: 320px;
+    height: 450px;
     position: absolute;
     top: 16px;
     left: 16px;
