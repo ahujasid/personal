@@ -63,3 +63,72 @@ a:hover{
 p{
     margin-top: 16px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+.main-container{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding-bottom: 80px;
+}
+
+
+.header{
+    font-family: 'Unna',serif;
+    font-size: 80px;
+    color: #2F3F37;
+    line-height: 1.38;
+    font-weight: 700;
+}
+
+.subheader{
+    font-family: 'Unna',serif;
+    margin-top: 16px;
+    font-size: 56px;
+    color: #81878C;
+    line-height: 1.38;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.content{
+    font-family: 'Crimson Text', serif;
+    margin-top: 24px;
+    font-size: 32px;
+    color: #535B62;
+    line-height: 1.57;
+    font-weight: 400;
+    max-width: 632px;
+    margin-top: 16px;
+    
+}
+
+a{
+    text-decoration: none;
+    border-bottom: 1px dashed #535B62;
+    color: #535B62;
+}
+
+a:hover{
+    text-decoration: none;
+    border-bottom: 1px solid #124DEE;
+    color: #124DEE;
+}
+
+p{
+    margin-top: 16px;
+}
+
+}
