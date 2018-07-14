@@ -78,10 +78,15 @@ p{
 @media screen and (max-width: 1024px) {
 
 .main-container{
-    width: 80%;
-    margin: 0 auto;
+    
+    margin: 0 0;
+    margin-left: 40px;
+    margin-right: 40px;
     margin-top: 5%;
+    margin-bottom: 0px;
     padding-bottom: 80px;
+    width: auto;
+
 }
 
 
@@ -110,8 +115,7 @@ p{
     color: #535B62;
     line-height: 1.57;
     font-weight: 400;
-    max-width: 632px;
-    margin-top: 16px;
+    max-width: 100%;
     
 }
 
